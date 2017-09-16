@@ -20,7 +20,7 @@ Configuration::Configuration() {
   ppu1.version = 1;
   ppu2.version = 3;
 
-  sat.path = "./bsxdat/";
+  sat.path = "http://satellabsnes.byethost10.com/bsxdat/";
   sat.local_time = true;
   sat.custom_time = 798653040; // 1995-04-23 16:04
 }
