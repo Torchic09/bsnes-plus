@@ -75,3 +75,10 @@ bsnes v073 and its derivatives are licensed under the GPL v2; see *Help > Licens
 ## Contributors
 
 See *Help > Documentation ...* for a list of authors.
+Credit to the original creators!
+
+## My Goals
+
+A. Get the Satellaview online with a custom server using bsnes, and adding an option to use local or online BSXDAT
+B. Bring back the stretch, fill, and default maximized display settings.
+C. i dont know what else to put here
